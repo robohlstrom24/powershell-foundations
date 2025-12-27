@@ -1,4 +1,3 @@
-# powershell-foundations
 ## Contents
 
 - Shell Demo: Archive by Age (Downloads hygiene)
