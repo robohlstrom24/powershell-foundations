@@ -7,7 +7,7 @@ The example moves files older than 30 days from a user’s **Downloads** directo
 
 ### Scenario
 
-User-facing directories (such as Downloads) often accumulate stale files over time. This demo illustrates a safe, repeatable cleanup operation using time-based filtering and basic PowerShell pipelines.
+User-facing directories often accumulate stale files over time. This demo illustrates a safe, repeatable cleanup operation using time-based filtering and basic PowerShell pipelines.
 
 ---
 
