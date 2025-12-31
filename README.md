@@ -3,6 +3,7 @@
 ## Contents
 
 - Shell Demo: Archive by Age (Downloads hygiene) -complete
+- [Archive Files by Age](shell-demos/archive-by-age.md)
 - Shell Demo: Event Log Triage (System errors, last 24 hours) -in progress
 - Script: Asset Inventory (CSV output) -in progress
 
