@@ -1,10 +1,10 @@
-## (Project in process)
+## (Project in progress)
 
 ## Contents
 
-- Shell Demo: Archive by Age (Downloads hygiene)
-- Shell Demo: Event Log Triage (System errors, last 24 hours)
-- Script: Asset Inventory (CSV output)
+- Shell Demo: Archive by Age (Downloads hygiene) -complete
+- Shell Demo: Event Log Triage (System errors, last 24 hours) -in progress
+- Script: Asset Inventory (CSV output) -in progress
 
 ## Operational Relevance (IT Operations and Automation)
 
