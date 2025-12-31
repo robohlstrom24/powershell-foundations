@@ -2,7 +2,7 @@
 
 ## Contents
 
-- Shell Demo: Archive by Age **complete:** [Archive Files by Age](shell-demos/archive-by-age.md)
+- Shell Demo: [Archive Files by Age](shell-demos/archive-by-age.md) **(complete)** 
 - Shell Demo: Event Log Triage **(in progress)**
 - Script: Asset Inventory **(in progress)**
 
