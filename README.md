@@ -2,9 +2,8 @@
 
 ## Contents
 
-- Shell Demo: [Archive Files by Age](shell-demos/archive-by-age.md) **(complete)** 
-- Shell Demo: Event Log Triage **(in progress)**
-- Script: Asset Inventory **(in progress)**
+- [Archive Files by Age](shell-demos/archive-by-age.md) **(complete)** 
+- Conditional Service Start
 
 ## Operational Relevance (IT Operations and Automation)
 
