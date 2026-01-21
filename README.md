@@ -2,8 +2,8 @@
 
 ## Contents
 
-- [Archive Files by Age](shell-demos/archive-by-age.md) **(complete)** 
-- Conditional Service Start
+- [Archive Files by Age](shell-demos/archive-by-age.md) 
+- [Conditional Service Start](shell-demos/conditional-service-start.md)
 
 ## Operational Relevance (IT Operations and Automation)
 
