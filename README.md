@@ -1,13 +1,14 @@
 (Project in progress)
 
+## Operational Relevance (IT Operations and Automation)
+
+This project demonstrates fundamental PowerShell skills relevant to an IT Operations environment. Shell demonstrations model standard workflows, including archiving files by age and troubleshooting common issues (software installation failure, stalled Windows updates). Troubleshooting activities are documented in a separate repository modeled after ticket-based professional support methodologies. (see: [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal))
+
 ## Contents
 
 - [Archive Files by Age](shell-demos/archive-by-age.md) 
 - [Conditional Service Start](shell-demos/conditional-service-start.md)
 
-## Operational Relevance (IT Operations and Automation)
-
-This project demonstrates fundamental PowerShell skills relevant to an IT Operations environment. Shell demonstrations model standard workflows, including archiving files by age and troubleshooting common issues (software installation failure, stalled Windows updates). 
 
 ## Job Duties (IT Operations / PowerShell)
 
