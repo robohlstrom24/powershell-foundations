@@ -4,7 +4,7 @@ This shell demo shows a safe, repeatable method for verifying the status of core
 
 ## Troubleshooting Scenario
 
-This method would be used when users report software installs or Windows Updates failing to progress, often caused by background services stopping unexpectedly after a reboot or update. The status of related services is verified and only those not running are started to restore normal system behavior while minimizing unnecessary changes. 
+This method would be used when users report Windows Updates failing to progress, often caused by background services stopping unexpectedly after a reboot. The status of related services is verified and only those not running are started to restore normal system behavior while minimizing unnecessary changes. 
 
 
 ```powershell
