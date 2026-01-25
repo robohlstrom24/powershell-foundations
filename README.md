@@ -6,16 +6,16 @@ This project demonstrates fundamental PowerShell skills relevant to an IT Operat
 
 (see: [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal))
 
+## Job Duties Demonstrated (PowerShell)
+
+- Performing routine file system hygiene tasks  
+- Troubleshooting common workplace scenarios 
+
 ## Contents
 
 - [Archive Files by Age](shell-demos/archive-by-age.md) 
 - [Conditional Service Start](shell-demos/conditional-service-start.md)
 
-
-## Job Duties (IT Operations / PowerShell)
-
-- Performing routine file system hygiene tasks  
-- Troubleshooting common workplace scenarios 
 
 ## Future Enhancements
 
