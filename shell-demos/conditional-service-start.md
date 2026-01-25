@@ -15,3 +15,6 @@ foreach ($name in 'BITS','wuauserv','W32Time') {
         Start-Service $name
     }
 }
+
+
+[Troubleshooting ticket](https://github.com/robohlstrom24/troubleshooting-journal/blob/main/images/T0006.png)
