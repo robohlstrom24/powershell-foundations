@@ -1,4 +1,4 @@
-## Archive Files by Age (Shell Demo)
+## Archive Files by Age 
 
 This shell demo shows how to archive files older than a defined retention period using PowerShell.  
 The example moves files older than 30 days from a user’s **Downloads** directory into a scoped archive folder.
