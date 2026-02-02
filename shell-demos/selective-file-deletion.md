@@ -19,4 +19,4 @@ Remove-Item -Force
 
 ## Screenshots
 
-![screenshot1](images/screenshot1.png)
+![screenshot1](shell-demos/images/screenshot1.png)
