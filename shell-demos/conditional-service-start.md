@@ -17,4 +17,4 @@ foreach ($name in 'BITS','wuauserv','W32Time') {
 }
 ```
 
-(see: [Troubleshooting Journal Repository T-0006](https://github.com/robohlstrom24/troubleshooting-journal))
+(see ITSM-style ticket: [Troubleshooting Journal Repository T-0006](https://github.com/robohlstrom24/troubleshooting-journal))
