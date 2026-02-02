@@ -15,7 +15,7 @@ This project demonstrates fundamental PowerShell skills relevant to IT Support, 
 
 - [Archive Files by Age](shell-demos/archive-by-age.md) 
 - [Conditional Service Start](shell-demos/conditional-service-start.md)
-
+- [Selective File Deletion](shell-demos/selective-file-deletion.md)
 
 ## Future Enhancements
 
