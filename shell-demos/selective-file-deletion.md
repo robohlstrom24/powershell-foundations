@@ -17,6 +17,8 @@ Where-Object LastWriteTime -lt (Get-Date).AddDays(-30) |
 Remove-Item -Force
 ```
 
+(see: [Troubleshooting Journal Repository T-0007](https://github.com/robohlstrom24/troubleshooting-journal))
+
 ## Screenshots
 ![screenshot1](../images/screenshot1.png)
 ![screenshot1](../images/screenshot2.png)
