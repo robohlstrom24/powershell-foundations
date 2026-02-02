@@ -4,7 +4,7 @@ This shell demo shows a safe, repeatable approach to deleting files older than a
 
 ## Troubleshooting Scenario
 
-This method applies when users report failed downloads or installs due to insufficient available disk space. Historical files are selectively removed while recent files are preserved to avoid disrupting active prrocesses.   
+This method applies when users report failed downloads or installs due to insufficient available disk space. Historical files are selectively removed while recent files are preserved to avoid disrupting active processes.   
 
 
 ```powershell
