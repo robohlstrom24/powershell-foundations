@@ -1,9 +1,18 @@
 ## Selective File Deletion
 
-This shell demo shows a safe, repeatable method for deleting files older than a defined cut-off date. The example targets historical .log and .tmp files which have accumulated and consumed excessive disk space.  
+This shell demo shows a safe, repeatable approach to deleting files older than a defined cut-off date. The example targets accumulated historical .log and .tmp files that have contributed to low disk space on a target volume.  
 
 ## Troubleshooting Scenario
 
-This method would be used when users report a failed download, often caused by insufficient available disk space. Unnecessary historical files are selectively deleted while retaining recent files.   
+This method applies when users report failed downloads or installs due to insufficient available disk space. Historical files are selectively removed while recent files are preserved to avoid disrupting active prrocesses.   
 
 
+```powershell
+$root = "D:\LabSpace"
+$ext  = ".log",".tmp"
+
+Get-ChildItem $root -Recurse -File |
+Where-Object { $ext -contains $_.Extension } |
+Where-Object LastWriteTime -lt (Get-Date).AddDays(-30) |
+Remove-Item -Force
+```
