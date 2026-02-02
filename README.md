@@ -2,7 +2,7 @@
 
 ## Operational Relevance (IT Operations and Automation)
 
-This project demonstrates fundamental PowerShell skills relevant to an IT Operations environment. Shell demonstrations model standard workflows, including archiving files by age and troubleshooting common issues (software installation failure, stalled Windows updates). Troubleshooting activities are documented in a separate repository modeled after ticket-based professional support methodologies. 
+This project demonstrates fundamental PowerShell skills relevant to IT Support, IT Operations, and Systems Administrator roles. Shell demonstrations model standard workflows, including archiving files by age and troubleshooting common issues (software installation failure, stalled Windows updates, ahd failed download due to insufficient storage space). Troubleshooting activities are documented in a separate repository modeled after ticket-based professional support methodologies. 
 
 (see: [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal))
 
