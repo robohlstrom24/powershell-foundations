@@ -16,3 +16,7 @@ Where-Object { $ext -contains $_.Extension } |
 Where-Object LastWriteTime -lt (Get-Date).AddDays(-30) |
 Remove-Item -Force
 ```
+
+## Screenshots
+
+ ![screenshot1](images/screenshot1.png)
