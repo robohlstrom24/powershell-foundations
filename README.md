@@ -1,4 +1,4 @@
-# PowerShell Foundations
+![1](images/powershell.banner.jpg)
 
 ## Operational Relevance (IT Operations and Automation)
 
