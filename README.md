@@ -1,4 +1,4 @@
-![1](images/powershell.banner.jpg)
+![banner](images/powershell.banner.jpg)
 
 ## Operational Relevance (IT Operations and Automation)
 
